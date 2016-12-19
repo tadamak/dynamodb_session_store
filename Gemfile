@@ -34,3 +34,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # gem 'aws-sessionstore-dynamodb'
 gem 'aws-sessionstore-dynamodb', path: '../aws-sessionstore-dynamodb-ruby'
+gem 'pry'
+gem 'pry-rails'
+gem 'pry-byebug'
